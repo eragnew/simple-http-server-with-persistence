@@ -1,0 +1,16 @@
+{
+  "name": "simple-server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "chai-http": "^1.0.0",
+    "mocha": "^2.3.2"
+  }
+}
