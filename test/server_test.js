@@ -5,6 +5,8 @@ var expect = chai.expect;
 var chaiHTTP = require('chai-http');
 var fs = require('fs');
 
+require('../server');
+
 chai.use(chaiHTTP);
 
 var server_url = 'http://localhost:3000';
